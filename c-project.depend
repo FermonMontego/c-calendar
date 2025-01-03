@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1735849471 source:c:\users\fermo\onedrive\desktop\clang\c-project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1735841124 c:\users\fermo\onedrive\desktop\clang\c-project\utils.h
+
+1735842328 source:c:\users\fermo\onedrive\desktop\clang\c-project\utils.c
+	"utils.h"
+	<stdio.h>
+	<time.h>
+
